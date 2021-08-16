@@ -1,4 +1,4 @@
-import InstaPy
+import instapy
 
 session = InstaPy(username = "anc.yjoseph",password = "sirajsiru123")
 session.login()
